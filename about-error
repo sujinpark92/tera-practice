@@ -1,0 +1,5 @@
+Spring Security 설정안됐을때
+
+
+* tera-common-dependencies.gradle : compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}")
+-> jre로 수정하여 빌드 다시 하고, 다시 jdk로 변경하여 빌드
